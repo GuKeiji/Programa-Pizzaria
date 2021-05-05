@@ -1,0 +1,16 @@
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.exe
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.deps.json
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.runtimeconfig.json
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.runtimeconfig.dev.json
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.dll
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\ref\PizzariaChallenge.dll
+E:\HD\SENAI\PizzariaChallenge\bin\Debug\net5.0\PizzariaChallenge.pdb
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.csprojAssemblyReference.cache
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.AssemblyInfoInputs.cache
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.AssemblyInfo.cs
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.dll
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\ref\PizzariaChallenge.dll
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.pdb
+E:\HD\SENAI\PizzariaChallenge\obj\Debug\net5.0\PizzariaChallenge.genruntimeconfig.cache
